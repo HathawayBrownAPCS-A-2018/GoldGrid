@@ -9,7 +9,7 @@ public class GoldPath
 {
     private int[][] grid;
     public static final int NUM_ROWS = 2;
-    public static final int NUM_COLS = 4;
+    public static final int NUM_COLS = 2;
     
     // Initializes the grid with integers from 0 thru 9
     public GoldPath()
